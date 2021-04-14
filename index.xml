@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Strona główna</title>
-    <link>https://example.org/</link>
+    <link>https://pim73.github.io/</link>
     <description>Recent content on Strona główna</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl-PL</language>
-    <lastBuildDate>Wed, 14 Apr 2021 10:08:03 +0200</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Apr 2021 10:08:03 +0200</lastBuildDate><atom:link href="https://pim73.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jak sobie radzę z Agendą OrgMod, nie mając pod ręką komputera?</title>
-      <link>https://example.org/posts/emacs/</link>
+      <link>https://pim73.github.io/posts/emacs/</link>
       <pubDate>Wed, 14 Apr 2021 10:08:03 +0200</pubDate>
       
-      <guid>https://example.org/posts/emacs/</guid>
+      <guid>https://pim73.github.io/posts/emacs/</guid>
       <description>Jednym z moich odkryć ostatnich lat jest planowanie w plikach tekstowych. Doskonale nadaje się do tego Emacs oraz OrgMode. Nie będę skupiać się na samym systemie, bo łatwo znaleźć na ten temat mnóstwo informacji w internecie.
 Ponieważ jednak dzisiaj w tak dużym stopniu jesteśmy uzależnieni od korzystania z urządzeń mobilnych, zmuszony byłem do poszukiwania aplikacji, która mogłaby dać mi dostęp do moich plików .org oraz agendy.
 O ile dostęp do samych plików nie stanowi większego problemu, bo to zwykłe pliki tekstowe, to korzystanie z agendy, to już problem.</description>
@@ -20,19 +20,19 @@ O ile dostęp do samych plików nie stanowi większego problemu, bo to zwykłe p
     
     <item>
       <title>Ciekawe strony</title>
-      <link>https://example.org/linki/</link>
+      <link>https://pim73.github.io/linki/</link>
       <pubDate>Tue, 13 Apr 2021 09:30:08 +0200</pubDate>
       
-      <guid>https://example.org/linki/</guid>
+      <guid>https://pim73.github.io/linki/</guid>
       <description> JW Uproszczenia Moje prywatne notatki z audycji JW Broadcasting  </description>
     </item>
     
     <item>
       <title>O stronie</title>
-      <link>https://example.org/about/</link>
+      <link>https://pim73.github.io/about/</link>
       <pubDate>Tue, 13 Apr 2021 08:42:14 +0200</pubDate>
       
-      <guid>https://example.org/about/</guid>
+      <guid>https://pim73.github.io/about/</guid>
       <description>Takie sobie luźne zapiski&amp;hellip;</description>
     </item>
     

@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Strona główna</title>
-    <link>https://example.org/tags/</link>
+    <link>https://pim73.github.io/tags/</link>
     <description>Recent content in Tags on Strona główna</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl-PL</language>
-    <lastBuildDate>Wed, 14 Apr 2021 10:08:03 +0200</lastBuildDate><atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Apr 2021 10:08:03 +0200</lastBuildDate><atom:link href="https://pim73.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>emacs</title>
-      <link>https://example.org/tags/emacs/</link>
+      <link>https://pim73.github.io/tags/emacs/</link>
       <pubDate>Wed, 14 Apr 2021 10:08:03 +0200</pubDate>
       
-      <guid>https://example.org/tags/emacs/</guid>
+      <guid>https://pim73.github.io/tags/emacs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>lifehacks</title>
-      <link>https://example.org/tags/lifehacks/</link>
+      <link>https://pim73.github.io/tags/lifehacks/</link>
       <pubDate>Wed, 14 Apr 2021 10:08:03 +0200</pubDate>
       
-      <guid>https://example.org/tags/lifehacks/</guid>
+      <guid>https://pim73.github.io/tags/lifehacks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>orgmode</title>
-      <link>https://example.org/tags/orgmode/</link>
+      <link>https://pim73.github.io/tags/orgmode/</link>
       <pubDate>Wed, 14 Apr 2021 10:08:03 +0200</pubDate>
       
-      <guid>https://example.org/tags/orgmode/</guid>
+      <guid>https://pim73.github.io/tags/orgmode/</guid>
       <description></description>
     </item>
     
     <item>
       <title>txt</title>
-      <link>https://example.org/tags/txt/</link>
+      <link>https://pim73.github.io/tags/txt/</link>
       <pubDate>Wed, 14 Apr 2021 10:08:03 +0200</pubDate>
       
-      <guid>https://example.org/tags/txt/</guid>
+      <guid>https://pim73.github.io/tags/txt/</guid>
       <description></description>
     </item>
     
