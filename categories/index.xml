@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Strona główna</title>
+    <link>https://example.org/categories/</link>
+    <description>Recent content in Categories on Strona główna</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl-PL</language>
+    <lastBuildDate>Wed, 14 Apr 2021 10:08:03 +0200</lastBuildDate><atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Planowanie</title>
+      <link>https://example.org/categories/planowanie/</link>
+      <pubDate>Wed, 14 Apr 2021 10:08:03 +0200</pubDate>
+      
+      <guid>https://example.org/categories/planowanie/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
