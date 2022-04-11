@@ -106,9 +106,9 @@
 <h3 id="rozwiązanie-problemu">Rozwiązanie problemu</h3>
 <p>Rozwiązaniem okazuje się istniejąca funkcja <code>Dynamic Blocks</code>.</p>
 <p>Wcześniej zdefiniować <code>Dynamic Blocks</code> w pliku <code>.emacs</code></p>
-<div class="highlight"><pre style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-lisp" data-lang="lisp">(<span style="color:#bb60d5">org-dynamic-block-define</span> <span style="color:#4070a0">&#34;columnview&#34;</span> <span style="color:#517918">&#39;org-insert-columns-dblock</span>)
-(<span style="color:#bb60d5">org-dynamic-block-define</span> <span style="color:#4070a0">&#34;aggregate&#34;</span> <span style="color:#517918">&#39;org-insert-dblock:aggregate</span>)
-</code></pre></div><p>Teraz wystarczy umieścić kursor na nagłówku, z którego punktów chcemy utworzyć tabelę i wywołać funkcję za pomocą skrótu:</p>
+<div class="highlight"><pre tabindex="0" style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-lisp" data-lang="lisp"><span style="display:flex;"><span>(<span style="color:#bb60d5">org-dynamic-block-define</span> <span style="color:#4070a0">&#34;columnview&#34;</span> <span style="color:#517918">&#39;org-insert-columns-dblock</span>)
+</span></span><span style="display:flex;"><span>(<span style="color:#bb60d5">org-dynamic-block-define</span> <span style="color:#4070a0">&#34;aggregate&#34;</span> <span style="color:#517918">&#39;org-insert-dblock:aggregate</span>)
+</span></span></code></pre></div><p>Teraz wystarczy umieścić kursor na nagłówku, z którego punktów chcemy utworzyć tabelę i wywołać funkcję za pomocą skrótu:</p>
 <p><code>C-c C-x x columnview</code></p>
 <p>Pod nagłówkiem utworzona jest tablica, z którą można zrobić wszystko, co się chce. Co ważne, nie przekształca to w żaden sposób   podpunktów samego nagłówka.</p>
 
